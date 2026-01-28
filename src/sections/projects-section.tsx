@@ -9,7 +9,7 @@ export default function ProjectsSection() {
             image: "/assets/e-shop.jpeg",
             github: "https://github.com/ahulkumar1234/Scatch_Frontend",
             href: "https://scatch-frontend-chi.vercel.app",
-            tech: ["React", "Node.js", "Express", "MongoDB"],
+            tech: ["MERN", "Tailwind CSS"],
             type: "Full Stack",
         },
         {
@@ -18,7 +18,7 @@ export default function ProjectsSection() {
             image: "/assets/code-review.png",
             github: "https://github.com/ahulkumar1234/CodeSage-Frontend",
             href: "https://code-sage-frontend-two.vercel.app",
-            tech: ["React", "Tailwind CSS", "Gemini API"],
+            tech: ["MERN", "Tailwind CSS", "Gemini API"],
             type: "Full Stack",
         },
         {
