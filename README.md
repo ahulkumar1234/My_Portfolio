@@ -1,73 +1,106 @@
-# React + TypeScript + Vite
+# 👋 Rahul Kumar  
+### Full Stack Developer (MERN)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am a MERN Stack Developer focused on building scalable, high-performance web applications using MongoDB, Express.js, React, and Node.js. I enjoy developing clean architectures, writing maintainable code, and delivering seamless user experiences from frontend to backend.
 
-Currently, two official plugins are available:
+I also bring prior corporate experience in business development and sales roles, which has strengthened my understanding of real-world business requirements, client communication, and project delivery. This combination allows me to build technically sound solutions that align with business goals.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Projects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🛒 E-Shop (Full Stack)
+**E-commerce web application**
+- Built using React, Node.js, Express, and MongoDB  
+- Features product listing, cart, and backend integration  
 
-## Expanding the ESLint configuration
+🔗 Live Demo | 💻 Code
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(["dist"]),
-  {
-    files: ["**/*.{ts,tsx}"],
-    extends: [
-      // Other configs...
+### 🤖 Code Reviewer (Full Stack)
+**AI-powered code review tool**
+- Built with React and Tailwind CSS  
+- Integrated Gemini API for intelligent code analysis  
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+🔗 Live Demo | 💻 Code
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ["./tsconfig.node.json", "./tsconfig.app.json"],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-]);
-```
+---
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### 📝 E-Notes (Frontend)
+**Note-taking web application**
+- Clean and responsive UI  
+- Built using React and Tailwind CSS  
 
-```js
-// eslint.config.js
-import reactX from "eslint-plugin-react-x";
-import reactDom from "eslint-plugin-react-dom";
+🔗 Live Demo | 💻 Code
 
-export default defineConfig([
-  globalIgnores(["dist"]),
-  {
-    files: ["**/*.{ts,tsx}"],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs["recommended-typescript"],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ["./tsconfig.node.json", "./tsconfig.app.json"],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-]);
-```
+---
+
+## 💼 Experience
+
+### Freelance Web Developer — *Self-Employed*  
+**April 2025 – May 2025**
+- Designed and developed responsive websites using HTML, CSS, and JavaScript  
+- Delivered client-focused projects including portfolio and business websites with high usability and performance  
+
+---
+
+### Business Development Manager — *ICICI Bank*  
+**Dec 2023 – May 2024**
+- Drove sales growth by acquiring new clients and managing customer relationships  
+- Conducted client meetings, product presentations, and cross-selling while ensuring high customer satisfaction  
+
+---
+
+### VSR — *Stream Digital Services*  
+**Aug 2021 – Aug 2023**
+- Managed digital campaigns and online promotions to improve brand visibility and lead generation  
+- Worked on social media, content optimization, and performance tracking  
+
+---
+
+## 🎓 Education
+
+### Master of Computer Applications (MCA)  
+**Arka Jain University** — *May 2024 – Present*  
+Currently pursuing MCA with a focus on programming, software development, and practical project-based learning.
+
+---
+
+### Bachelor of Science in Physics  
+**Kolhan University, Chaibasa** — *Sep 2019 – May 2022*  
+Gained strong analytical and problem-solving skills through labs and academic projects.
+
+---
+
+## 🛠️ Skills
+
+**Frontend**
+- HTML, CSS, JavaScript  
+- React.js  
+- Tailwind CSS, Bootstrap  
+
+**Backend**
+- Node.js, Express.js  
+- REST APIs  
+
+**Database**
+- MongoDB  
+
+**Tools**
+- Git, GitHub  
+- Postman  
+- JSON  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: rahulkumar8340527941@gmail.com  
+- 📞 Phone: 8340527941  
+- 💼 GitHub: https://github.com/ahulkumar1234  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rahul-kumar-3990b618b  
+
+---
+
+⭐ *Thanks for visiting my portfolio!*  
