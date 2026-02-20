@@ -49,7 +49,7 @@ export default function HeroSection() {
             <div className="mt-6 flex flex-wrap items-center gap-4">
                 {/* Resume Download */}
                 <a
-                    href="/assets/Rahul_CV.pdf"
+                    href="/assets/Rahul_CV_Updated.pdf"
                     download
                     className="group relative inline-flex items-center bg-indigo-600 hover:bg-indigo-700 text-white px-7 py-2.5 rounded-lg transition shadow-lg hover:shadow-indigo-500/40"
                 >

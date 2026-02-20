@@ -22,6 +22,15 @@ export default function ProjectsSection() {
             type: "Full Stack",
         },
         {
+            title: "AI Job Tracker",
+            description: "AI-powered Job tracker",
+            image: "/assets/img.png",
+            github: "https://github.com/ahulkumar1234/AI-Job-Tracker?tab=readme-ov-file",
+            href: "https://ai-job-tracker-gilt.vercel.app",
+            tech: ["MERN", "Gemini API", "LangChain"],
+            type: "Full Stack",
+        },
+        {
             title: "E-Notes",
             description: "Note-taking web app",
             image: "/assets/note-app.png",
