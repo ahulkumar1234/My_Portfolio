@@ -9,6 +9,7 @@ export default function SkillsSection() {
         "Tailwind CSS",
         "Bootstrap",
         "Postman",
+        "JWT",
         "JSON",
         "Git",
         "GitHub",

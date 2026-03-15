@@ -39,6 +39,15 @@ export default function ProjectsSection() {
             tech: ["React", "Tailwind CSS"],
             type: "Frontend",
         },
+        {
+            title: "Hotel Management",
+            description: "Restaurant Order Management",
+            image: "/assets/rest-dashboard.png",
+            github: "https://github.com/ahulkumar1234/Restaurant-Management",
+            href: "https://restaurant-management-nnbm.vercel.app",
+            tech: ["MERN", "Vanilla CSS"],
+            type: "Full Stack",
+        },
     ];
 
     return (
