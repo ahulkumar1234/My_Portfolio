@@ -46,9 +46,9 @@ export default function EducationSection() {
                             <div>Arka Jain University </div>
                         </div>
                     </div>
-                    <div>May 2024 - Present</div>
+                    <div>May 2024 - May 2026</div>
                 </div>
-                <p className="mt-6 text-gray-500">Currently pursuing MCA with a focus on programming, software development, and practical project-based learning.</p>
+                <p className="mt-6 text-gray-500">Completed MCA with a focus on programming, software development, and practical project-based learning.</p>
             </div>
         </Section>
     );

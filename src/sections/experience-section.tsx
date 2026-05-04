@@ -21,7 +21,7 @@ export default function ExperienceSection() {
             company: "Self-Employed",
             location: "Remote",
             start: "April 2025",
-            end: "May 2025",
+            end: "March 2026",
             description: [
                 "Designed and developed responsive websites using HTML, CSS, and JavaScript.",
                 "Delivered client-focused projects including portfolio and business websites with high usability and performance.",

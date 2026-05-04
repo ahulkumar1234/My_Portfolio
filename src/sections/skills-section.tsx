@@ -17,6 +17,15 @@ export default function SkillsSection() {
         "HTML",
         "CSS",
         "JavaScript",
+        "Socket io",
+        "Fastify",
+        "Axios",
+        "Redux Toolkit",
+        "VS Code",
+        "NPM",
+        "Vercel",
+        "Netlify",
+        "Render"
     ];
 
     return (
