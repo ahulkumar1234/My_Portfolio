@@ -3,7 +3,20 @@ import Section from "../components/section";
 export default function ExperienceSection() {
     const experience = [
         {
-           image: "/assets/selfemp_logo.jpg",
+            image: "/assets/hansrajlogo.png",
+            title: "MERN Stack Developer Intern",
+            company: "Hansraj Ventures Pvt Ltd",
+            location: "Remote",
+            start: "March 2026",
+            end: "Present",
+            description: [
+                "Developing and maintaining full-stack web applications using MongoDB, Express.js, React, and Node.js.",
+                "Working on real-time features like chat, posts, and polls using REST APIs and Socket.io.",
+                "Collaborating with team members using Git branches and improving UI responsiveness and performance.",
+            ],
+        },
+        {
+            image: "/assets/selfemp_logo.jpg",
             title: "Freelance Web Developer",
             company: "Self-Employed",
             location: "Remote",
@@ -38,7 +51,7 @@ export default function ExperienceSection() {
                 "Managed digital campaigns and online promotions to improve brand visibility and lead generation.",
                 "Worked on social media, content optimization, and performance tracking to achieve marketing goals.",
             ],
-        },
+        }
     ];
 
     return (
